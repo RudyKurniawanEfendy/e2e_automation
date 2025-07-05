@@ -1,0 +1,12 @@
+{
+  "name": "orangehrm-cypress-e2e",
+  "version": "1.0.0",
+  "description": "E2E Testing OrangeHRM with Cypress for QA Assignment Week 8",
+  "scripts": {
+    "cypress:open": "npx cypress open",
+    "cypress:run": "npx cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}
